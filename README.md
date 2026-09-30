@@ -2,9 +2,9 @@
 
 ## 👋 Merhaba
 
-Bilgisayar mühendisi ve full stack yazılım geliştiriciyim. Aydın'da yaşıyorum, **Dağ Yazılım** adı altında freelance projeler geliştiriyorum.
+Bilgisayar mühendisi ve full stack yazılım geliştiriciyim.
 
-Az özellikli, sade ve sürdürülebilir ürünler yapmayı seviyorum.
+Sade ve sürdürülebilir ürünler yapmayı seviyorum.
 
 ## 🚀 Ne yapıyorum?
 
