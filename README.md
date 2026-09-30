@@ -8,7 +8,7 @@ Sade ve sürdürülebilir ürünler yapmayı seviyorum.
 
 ## 🚀 Ne yapıyorum?
 
-- 🏙️ **[Aqtivite](https://aqtivite.com)** şehir bazlı etkinlik keşif platformunun frontend mimarisini sıfırdan kurdum ve mobil (iOS/Android) dönüşümüne öncülük ettim
+- 🏙️ **[Aqtivite](https://aqtivite.com.tr)** şehir bazlı etkinlik keşif platformunun frontend mimarisini sıfırdan kurdum ve mobil (iOS/Android) dönüşümüne öncülük ettim
 - 🧾 Müşteriler için CRM/ERP, QR menü, restoran sipariş ve depo takip sistemleri geliştiriyorum
 - 📱 Web ve mobil uygulamalar (Capacitor) üretiyorum
 
