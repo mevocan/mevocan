@@ -10,9 +10,9 @@ Sade, okunabilir ve sürdürülebilir kod yazmaya önem veriyorum.
 <br />
 
 [![Web sitesi](https://img.shields.io/badge/Web_sitesi-2a3bff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mevlutcandag.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-2a3bff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905439055779)
-[![E-posta](https://img.shields.io/badge/E--posta-2a3bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mevlutcandag.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2a3bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mevl%C3%BCt-can-da%C4%9F-282585285/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905439055779)
+[![E-posta](https://img.shields.io/badge/E--posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mevlutcandag.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mevl%C3%BCt-can-da%C4%9F-282585285/)
 
 </div>
 
